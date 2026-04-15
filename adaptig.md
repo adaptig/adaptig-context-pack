@@ -12,7 +12,7 @@ Live, interactive workshops. Practical skills. Human focus. Real change.
 
 - **Company:** Adaptig Group Limited
 - **Website:** adaptig.ai
-- **Headquarters:** Hong Kong, operating globally across North America, Latin America, Europe, and Asia-Pacific
+- **Headquarters:** Hong Kong, delivering across 4 continents in 8 languages
 
 ## How this Context Pack is organized
 
@@ -20,7 +20,7 @@ This file is the spine of the Adaptig Context Pack. The rest of the pack covers 
 
 - **`team.md`** — Core management team with roles
 - **`vision.md`** — Mission, vision, values, and differentiators
-- **`product.md`** — Spark / Shift / Shape product lines and training pipeline
+- **`product.md`** — Spark / Shift / Shape / Show product lines, adoption framework, and training pipeline
 - **`brand-tone-of-voice.md`** — How Adaptig communicates
 - **`brand-visual-style.md`** — Logo, typography, color palette, illustration style
 - **`achievement.md`** — Verified track record numbers and reference clients
