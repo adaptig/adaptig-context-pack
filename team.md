@@ -1,12 +1,12 @@
 # Team
 
-Adaptig's core management team as of April 2026. Every role below is drawn from a verified source — the Apr 7 2026 Sam + Jan-Eric meeting recap, the Apr 8 2026 Adaptig team email thread CC list, or Sam's canonical profile. Where a title is inferred, unclear, or in flux, it is explicitly flagged.
+Adaptig's core management team as of April 2026.
 
 ## Leadership
 
 **Jan-Eric Kloth** — Co-Founder.
 
-**Sam Wong** — Co-Founder and Director of Academy. Internal AI learning lead (new role locked Apr 7 2026). Sam owns the internal training pipeline feeding both team upskilling and Shift/Spark/Shape product updates.
+**Sam Wong** — Co-Founder and Director of Academy. Leads internal AI training pipeline feeding both team upskilling and Shift/Spark/Shape product updates.
 
 ## Product leads
 
@@ -26,7 +26,7 @@ Adaptig's core management team as of April 2026. Every role below is drawn from 
 
 ## Trainers
 
-**Fynn Kloth** — Trainer. Delivered the first solo Creativity public class on Apr 8 2026 in Hong Kong. Note: written as "Finn" in the Apr 7 recap and "Fynn" in MEMORY.md. The canonical spelling is **Fynn** (MEMORY.md and the email chain with Fynn's first solo class are the more recent authoritative sources).
+**Fynn Kloth** — Trainer. Delivered the first solo Creativity public class in Hong Kong (Apr 2026).
 
 ## What is deliberately out of scope
 

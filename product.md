@@ -4,23 +4,23 @@ Adaptig's product surface is a layered system of live training, reference playbo
 
 ## The three product lines
 
-**Shift** — led by Mateo Romano.
+**Shift** — led by Mateo Romano. A six-week AI Pioneers Program that identifies and equips internal champions to lead adoption within their organization.
 
-**Spark** — trainer-delivered live sessions. Fynn Kloth delivered the first solo Spark-adjacent Creativity public class on Apr 8 2026 in Hong Kong.
+**Spark** — trainer-delivered, live, hands-on workshops that ignite real capability. Two core tracks: **Productivity** (email drafting, data analysis, market analysis, report generation, presentation generation) and **Creativity** (image generation, video generation, marketing materials, logo design, website creation).
 
-**Shape** — led by Casper Guldager.
+**Shape** — led by Casper Guldager. Executive-level strategic AI roadmap sessions for leadership teams ready to turn ambitions into practical next steps.
 
 ## Training pipeline
 
 The Adaptig internal training pipeline runs in three phases, feeding both team upskilling and product updates:
 
-1. **Phase 1 — Live bi-weekly training sessions** (moving toward weekly) led by Sam. Topics the team and trainers need to stay current on: Copilot setup, Copilot in Office, Claude, Skills, Personal context management, AI on mobile, Vibe coding, Comparing LLMs, Marketing & media with Manus. Session time: **10 PM HK / 7 AM LA, Tuesday or Wednesday**, merging internal team and trainer sessions.
+1. **Phase 1 — Live bi-weekly training sessions** (moving toward weekly) led by the Director of Academy. Topics: Copilot setup, Copilot in Office, Claude, Skills, Personal context management, AI on mobile, Vibe coding, Comparing LLMs, Marketing & media with Manus.
 2. **Phase 2 — Product updates** fed back into Shift / Spark / Shape from what surfaces during Phase 1 live sessions.
-3. **Phase 3 — Produced video content** for paid customer-base access, recorded in Sam's studio once live sessions prove they are repeatable.
+3. **Phase 3 — Produced video content** for paid customer-base access, recorded in-house once live sessions prove they are repeatable.
 
 ## Standard training structure
 
-Every standardized short training follows the same five-step spine: **Knowledge → Relevance → Playbook → Exercise → Takeaway**. This structure was locked in the Apr 7 2026 Sam + Jan-Eric meeting as the default shape for every class.
+Every standardized short training follows the same five-step spine: **Knowledge → Relevance → Playbook → Exercise → Takeaway**.
 
 ## Keynotes as a paid product
 
@@ -28,7 +28,7 @@ Keynote presentations are offered to trainers as a paid product with standardize
 
 ## Public classes
 
-Adaptig runs recurring public classes. The Creativity class is actively running in Hong Kong as of Apr 2026, with the 2nd Creativity public class held Apr 8 2026 at DoRich's office (8/F Tower 3 China HK City).
+Adaptig runs recurring public classes in Hong Kong. Both Productivity and Creativity tracks are offered as open-enrollment workshops.
 
 ## Pricing (the general rule)
 

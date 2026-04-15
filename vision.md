@@ -18,7 +18,20 @@ Adaptig closes that gap. We teach workflows, not tools. We sell the flow, not th
 
 ## The Goldilocks Zone
 
-Sam's teaching philosophy names the target: the **Goldilocks Zone** where action becomes easy and adoption becomes natural. Training that lands too theoretical is cold. Training that overwhelms with tools is hot. The Goldilocks Zone is the narrow band where practitioners leave the room and actually do the thing — because the next step is small enough that they can take it without thinking.
+Adaptig's teaching philosophy names the target: the **Goldilocks Zone** where action becomes easy and adoption becomes natural. Training that lands too theoretical is cold. Training that overwhelms with tools is hot. The Goldilocks Zone is the narrow band where practitioners leave the room and actually do the thing — because the next step is small enough that they can take it without thinking.
+
+## Core values
+
+1. **Noble Intent** — Assume good intentions; act with integrity and respect.
+2. **Everyone Belongs** — Show up as you are; bring curiosity, respect, and shared passion.
+3. **Playful Professionalism** — Serious outcomes, lighthearted journey.
+4. **AI-First Approach** — Challenge norms thoughtfully; walk the talk.
+5. **Human-Centered, AI-Enabled** — Progress that serves people, never compromising trust, transparency, or privacy.
+6. **Result-Focused** — Channel energy into progress and solving problems.
+
+## How we want people to feel
+
+When participants think "Adaptig," they should feel: **seen and heard**, **empowered** ("I've got this"), **guided not lectured**, **safe to experiment**, **sparked with possibility**, and **proudly future-ready**.
 
 ## What we are not building
 

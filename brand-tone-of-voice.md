@@ -34,4 +34,4 @@ No emojis. Ever. Across every channel. Concise narrative paragraphs, not bullet 
 
 ## Out of scope
 
-This file covers Adaptig's corporate voice only. Sam's personal platform voice — Threads in 粵語口語 (Cantonese oral), personal blog in English or 書面語 — is documented separately in his personal content reference and is not Adaptig's voice. Team members writing personal content on personal channels should not reference this file.
+This file covers Adaptig's corporate voice only. Team members writing personal content on personal channels follow their own voice — this file applies to Adaptig-branded communication only.

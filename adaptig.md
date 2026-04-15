@@ -13,17 +13,15 @@ We help enterprise teams turn AI from "interesting" into "usable" through human-
 - **Primary contact:** sam@adaptig.com
 - **Headquarters:** Hong Kong, operating across HK and LA time zones
 
-## Not to be confused with DotAI
+## Entity boundary
 
-**Adaptig (Adaptig Group Limited) and DotAI (Animo Technology Limited) are separate entities.** Different corporate structures, different missions, different client relationships. Any document, pitch, invoice, or communication must be clear about which entity it represents. Confusing the two is a known failure mode and is explicitly listed as a correction in the root project configuration.
-
-DotAI is Sam's other principal affiliation — separate team, separate brand, separate entity. This Context Pack is **Adaptig-only**. Never reference DotAI facts, clients, or branding inside an Adaptig deliverable without explicit reason to do so.
+**Adaptig (Adaptig Group Limited) and DotAI (Animo Technology Limited) are separate entities.** Different corporate structures, different missions, different client relationships. Any document, pitch, invoice, or communication must be clear about which entity it represents. This Context Pack is **Adaptig-only** — never reference DotAI facts, clients, or branding inside an Adaptig deliverable.
 
 ## How this Context Pack is organized
 
 This file is the spine of the Adaptig Context Pack. The rest of the pack covers specific facets of the company:
 
-- **`team.md`** — Core management team with sourced titles
+- **`team.md`** — Core management team with roles
 - **`vision.md`** — What Adaptig is building and why
 - **`product.md`** — Shift / Spark / Shape product lines, training pipeline, public classes
 - **`brand-tone-of-voice.md`** — How Adaptig communicates, internally and externally
@@ -39,4 +37,4 @@ Every fact in these files is either sourced or flagged. If you disagree with a f
 
 ## Out of scope
 
-This pack does NOT contain: personal workflows, operator-specific skills (`skills.md`), client-specific playbooks, financial information, client pricing, or anything covered by NDA with specific clients. Those live in other places. This pack is the **foundation** — the facts every agent needs to know before it can do anything else on behalf of Adaptig.
+This pack does NOT contain: personal workflows, operator-specific skills, client-specific playbooks, financial information, client pricing, or anything covered by NDA. Those live in other places. This pack is the **foundation** — the facts every agent needs to know before it can do anything else on behalf of Adaptig.

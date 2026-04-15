@@ -1,41 +1,68 @@
 # Adaptig Context Pack
 
-This folder is the canonical reference for Adaptig company facts. Any team member's agent — Claude, Claude Code, Copilot, Gemini, or anything else — should read these files before generating content on behalf of Adaptig.
+This folder is the canonical reference for Adaptig company facts. Any team member's agent — Claude Code, Copilot, Gemini, or anything else — should read these files before generating content on behalf of Adaptig.
 
 ## Files
 
 - **`adaptig.md`** — Spine. Start here. Entity, tagline, mission, and how the rest of the pack is organized.
-- **`team.md`** — Core management team with sourced titles.
+- **`team.md`** — Core management team with roles.
 - **`vision.md`** — What Adaptig is building and why.
 - **`product.md`** — Shift / Spark / Shape product lines, training pipeline, public classes, keynote product.
 - **`brand-tone-of-voice.md`** — How Adaptig communicates.
 - **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, canonical asset locations.
 - **`achievement.md`** — Verified track record numbers. Use these, not approximations.
 
-## How to use this pack with your agent
+## Quick setup: Claude Code
 
-1. Clone or download this folder to your local machine.
-2. Point your agent at the folder as a reference directory. For **Claude Code**, drop the folder path into your project's `CLAUDE.md` or link it from your working directory. For **Claude Co-worker**, add it as a reference file set. For **Copilot** or other agents, follow their context-loading convention.
-3. Before generating any Adaptig-facing content, have the agent read the relevant files. When in doubt, it should read `adaptig.md` first — that is the spine and the tiebreaker.
+### 1. Clone the repo
+
+```
+git clone git@github.com:adaptig/adaptig-context-pack.git ~/adaptig-context-pack
+```
+
+### 2. Reference from your project
+
+Add this line to your global instructions file (`~/.claude/CLAUDE.md`) or to a project-specific `CLAUDE.md`:
+
+```
+For Adaptig company context, read the files in ~/adaptig-context-pack/ before generating any Adaptig-facing content. Start with adaptig.md (the spine file) and read whichever other files are relevant to the task.
+```
+
+### 3. Verify it works
+
+Open Claude Code and ask: "What is Adaptig's tagline?" It should answer "AI adoption that sticks" without you having to tell it.
+
+### 4. Keep it updated
+
+Pull the latest version periodically:
+
+```
+cd ~/adaptig-context-pack && git pull
+```
+
+## Setup for other agents
+
+- **Claude Co-worker**: Add the folder as a reference file set in your project settings.
+- **GitHub Copilot**: Reference the folder in your `.github/copilot-instructions.md` or Copilot instructions.
+- **Other agents**: Follow their context-loading convention — most support pointing at a local folder of reference files.
 
 ## Golden rule
 
 Every fact in these files is either sourced or flagged. If you disagree with a fact, **fix the file** rather than arguing in chat. The pack is canonical by design — discussions become distributed across channels, but the file is one place and one state.
-
-If you see a fact without a source, that is a bug. Open it, fix it, and update the pack.
 
 ## What's NOT in this pack
 
 - Personal workflows and operator-specific skills — those live in each team member's personal context folder.
 - Client-specific information, NDAs, client pricing, or engagement contracts — those live in internal systems, not here.
 - Financial, investor, or fundraising information — not a team-facing concern.
-- DotAI / Animo Technology Limited content — that is a separate entity with its own context, never mix them. See `adaptig.md` for the entity boundary rule.
+- DotAI / Animo Technology Limited content — separate entity, separate context. See `adaptig.md` for the entity boundary.
 
 ## Maintenance
 
-
-
-The pack is a living document, but updates should be deliberate. **No changes to facts without a source or a confirmation from Sam or Jan-Eric.** When in doubt, flag rather than assert.
+- **Who can update**: Any core team member via pull request.
+- **Who approves**: Sam or Jan-Eric must approve changes to factual claims (numbers, client names, product definitions).
+- **When to update**: After major client wins, team changes, product launches, or brand decisions.
+- **How to flag uncertainty**: If a fact seems wrong, open an issue or comment in the PR — do not silently change numbers or claims.
 
 ## Version
 
