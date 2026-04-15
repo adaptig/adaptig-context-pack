@@ -7,7 +7,7 @@ This folder is the canonical reference for Adaptig company facts. Any team membe
 - **`adaptig.md`** — Spine. Start here. Entity, tagline, mission, and how the rest of the pack is organized.
 - **`team.md`** — Core management team with roles.
 - **`vision.md`** — What Adaptig is building and why.
-- **`product.md`** — Shift / Spark / Shape product lines, training pipeline, public classes, keynote product.
+- **`product.md`** — Spark / Shift / Shape product lines, training pipeline, and internal product details.
 - **`brand-tone-of-voice.md`** — How Adaptig communicates.
 - **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, canonical asset locations.
 - **`achievement.md`** — Verified track record numbers. Use these, not approximations.

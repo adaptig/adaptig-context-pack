@@ -1,6 +1,6 @@
 # Brand Visual Style
 
-Adaptig's visual identity is built around a felt-textured 3D illustration style, a primary wordmark with a standalone "A" logomark, and a six-color palette. The canonical reference for every visual decision is the Adaptig Design Guide.
+Adaptig's visual identity is built around a felt-textured 3D illustration style, a primary wordmark with a standalone "A" logomark, and a six-color palette.
 
 ## Logo
 
@@ -12,7 +12,7 @@ The primary wordmark is available in multiple variants: with and without the `ad
 
 ## Color palette
 
-Six brand colors: **Green, Dark Blue, Beige, Light Blue, Black, Orange**. Each color is available as pre-rendered shape fills alongside the raw vector sources. Hex codes are documented in the Adaptig Design Guide.
+Six brand colors: **Green, Dark Blue, Beige, Light Blue, Black, Orange**. Each color is available as pre-rendered shape fills alongside the raw vector sources. Hex codes are available in the brand assets folder on the shared drive.
 
 ## Illustration style
 
@@ -31,6 +31,8 @@ Thirty branded geometric shape PNGs are available, rendered in each of the six p
 - **Brand intro video:** The latest Adaptig brand intro video is version 10. Version 9 is also available in six languages: English, German, Spanish, Chinese, Japanese, and Portuguese (Brazil).
 - **Call backgrounds and LinkedIn banners:** Virtual meeting background images and LinkedIn profile and company page banners are maintained as separate asset sets.
 
-## Rule of thumb
+## Where to find assets
 
-If you need a brand asset for a deliverable, check the Adaptig brand assets collection first — there is almost certainly an existing file for what you need. Never recreate from scratch when a canonical asset exists.
+Brand assets (logos, fonts, shapes, templates, call backgrounds, LinkedIn banners, email signatures) are stored on the Adaptig shared Google Drive under `Brand Assets/`. They are NOT included in this git repo — the repo is text-only context for AI agents.
+
+If you need a brand asset for a deliverable, check the shared drive first — there is almost certainly an existing file for what you need. Never recreate from scratch when a canonical asset exists.

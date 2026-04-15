@@ -8,7 +8,7 @@ Adaptig's verified track record. These numbers come from adaptig.ai and are the 
 
 **120+ workshops** delivered.
 
-**3 continents** — North America, Latin America, Europe, and Asia-Pacific.
+**3 continents** — the Americas, Europe, and Asia-Pacific.
 
 **4.8 out of 5** average review score.
 

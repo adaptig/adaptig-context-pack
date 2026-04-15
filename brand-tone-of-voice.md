@@ -22,7 +22,7 @@ leverage, innovative, cutting-edge, state-of-the-art, empower, unlock potential,
 
 ## Format preferences
 
-No emojis. Ever. Across every channel. Concise narrative paragraphs, not bullet soup. Lead with what changed, what you need, and what is next — in that order. Em-dashes are "—", not " - " or "–".
+No emojis in Adaptig-branded content. Concise narrative paragraphs, not bullet soup. Lead with what changed, what you need, and what is next — in that order. Em-dashes are "—", not " - " or "–".
 
 ## Register across channels
 
