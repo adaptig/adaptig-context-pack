@@ -1,6 +1,12 @@
 # macOS
 .DS_Store
 
-# Binary brand assets (not suitable for a text context repo)
-brand-assets/
+# Archive (large binaries: videos, presentation templates)
 archive/
+
+# Video files in brand-assets (logo animations, tutorials — too large for git)
+brand-assets/**/*.mp4
+brand-assets/**/*.mov
+
+# Adobe Illustrator source files
+brand-assets/**/*.ai

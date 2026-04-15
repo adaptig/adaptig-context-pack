@@ -22,7 +22,7 @@ This file is the spine of the Adaptig Context Pack. The rest of the pack covers 
 - **`vision.md`** — Mission, vision, values, and differentiators
 - **`product.md`** — Spark / Shift / Shape / Show product lines, adoption framework, and training pipeline
 - **`brand-tone-of-voice.md`** — How Adaptig communicates
-- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style
+- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, and file paths to all visual assets in `brand-assets/`
 - **`achievement.md`** — Verified track record numbers and reference clients
 - **`README.md`** — Setup guide and maintenance notes
 

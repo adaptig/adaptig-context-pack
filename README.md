@@ -9,8 +9,9 @@ This folder is the canonical reference for Adaptig company facts. Any team membe
 - **`vision.md`** — What Adaptig is building and why.
 - **`product.md`** — Spark / Shift / Shape / Show product lines, the 100-10-10-1 adoption framework, training pipeline, and trainer economics.
 - **`brand-tone-of-voice.md`** — How Adaptig communicates.
-- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, canonical asset locations.
+- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, and relative file paths to all visual assets in `brand-assets/`.
 - **`achievement.md`** — Verified track record numbers. Use these, not approximations.
+- **`brand-assets/`** — Logos, fonts, shapes, illustration references, call backgrounds, LinkedIn backgrounds, email signatures. `brand-visual-style.md` serves as the index.
 
 ## Quick setup: Claude Code
 
