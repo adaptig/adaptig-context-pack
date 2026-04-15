@@ -40,5 +40,5 @@ The pack is a living document, but updates should be deliberate. **No changes to
 ## Version
 
 - **Drafted:** 2026-04-08
-- **Published to company GitHub:**
-- **Last reviewed:** 2026-04-08
+- **Published to company GitHub:** 2026-04-15
+- **Last reviewed:** 2026-04-15
