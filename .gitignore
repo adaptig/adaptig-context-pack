@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Binary brand assets (not suitable for a text context repo)
+brand-assets/
+archive/
