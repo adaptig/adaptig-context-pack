@@ -4,37 +4,34 @@ Adaptig is the operating name of **Adaptig Group Limited**, a corporate AI adopt
 
 ## What we do
 
-We help enterprise teams turn AI from "interesting" into "usable" through human-centered workflows, practical frameworks, and live training delivered by practitioners who actually use the tools. We are not a SaaS vendor, not a traditional consultancy, and not an AI research lab. We are the adoption layer that sits between the tools and the people who need to put them to work.
+We help organizations move their teams from unsure to unstoppable — with practical AI they actually use. Built by leaders for leaders, and powered by an international trainer team.
+
+Live, interactive workshops. Practical skills. Human focus. Real change.
 
 ## Entity
 
 - **Company:** Adaptig Group Limited
 - **Website:** adaptig.ai
-- **Primary contact:** sam@adaptig.com
-- **Headquarters:** Hong Kong, operating across HK and LA time zones
-
-## Entity boundary
-
-**Adaptig (Adaptig Group Limited) and DotAI (Animo Technology Limited) are separate entities.** Different corporate structures, different missions, different client relationships. Any document, pitch, invoice, or communication must be clear about which entity it represents. This Context Pack is **Adaptig-only** — never reference DotAI facts, clients, or branding inside an Adaptig deliverable.
+- **Headquarters:** Hong Kong, operating globally across North America, Latin America, Europe, and Asia-Pacific
 
 ## How this Context Pack is organized
 
 This file is the spine of the Adaptig Context Pack. The rest of the pack covers specific facets of the company:
 
 - **`team.md`** — Core management team with roles
-- **`vision.md`** — What Adaptig is building and why
-- **`product.md`** — Shift / Spark / Shape product lines, training pipeline, public classes
-- **`brand-tone-of-voice.md`** — How Adaptig communicates, internally and externally
-- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, canonical asset locations
-- **`achievement.md`** — Verified track record numbers (use these, not approximations)
-- **`README.md`** — Index and maintenance notes
+- **`vision.md`** — Mission, vision, values, and differentiators
+- **`product.md`** — Spark / Shift / Shape product lines and training pipeline
+- **`brand-tone-of-voice.md`** — How Adaptig communicates
+- **`brand-visual-style.md`** — Logo, typography, color palette, illustration style
+- **`achievement.md`** — Verified track record numbers and reference clients
+- **`README.md`** — Setup guide and maintenance notes
 
 When an Adaptig team member's agent needs to write something on behalf of the company, it should read the relevant file(s) from this pack and treat them as canonical. When in doubt, this spine file is the tiebreaker.
 
 ## Golden rule for this pack
 
-Every fact in these files is either sourced or flagged. If you disagree with a fact, **fix the file** rather than arguing in chat or Slack. The pack is canonical by design — discussions become distributed, but the file is one place and one state.
+If you disagree with a fact, **fix the file** via pull request rather than arguing in chat. The pack is canonical by design — discussions become distributed, but the file is one place and one state.
 
 ## Out of scope
 
-This pack does NOT contain: personal workflows, operator-specific skills, client-specific playbooks, financial information, client pricing, or anything covered by NDA. Those live in other places. This pack is the **foundation** — the facts every agent needs to know before it can do anything else on behalf of Adaptig.
+This pack does NOT contain: personal workflows, operator-specific skills, client-specific playbooks, financial information, client pricing, or anything covered by NDA. Those live in other places. This pack is the **foundation** — the facts every agent needs before it can do anything on behalf of Adaptig.

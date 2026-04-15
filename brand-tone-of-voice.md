@@ -4,9 +4,9 @@ Adaptig's voice is narrative, anti-hype, and concrete. We sound like practitione
 
 ## Core principles
 
-**Accuracy over speed.** We would rather be slow and right than fast and hedging. Numbers are specific when specifics exist — "1,530 participants across 13 countries," not "thousands of professionals."
+**Accuracy over speed.** We would rather be slow and right than fast and hedging. Numbers are specific when specifics exist — "4,800+ participants across 120+ workshops," not "thousands of professionals."
 
-**Show, don't claim.** We never say "as experts in AI adoption." We say "when we trained CLP's team" or "when we delivered 438 hours of corporate sessions." Expertise proves itself through specific examples, not adjectives.
+**Show, don't claim.** We never say "as experts in AI adoption." We say "when we trained 4,800+ participants across 3 continents" or name the specific engagement. Expertise proves itself through specific examples, not adjectives.
 
 **Anti-hype, always.** We do not use words like leverage, innovative, cutting-edge, empower, unlock, game-changer, or deep dive. If a sentence could appear on any AI company's homepage, it does not belong in ours.
 

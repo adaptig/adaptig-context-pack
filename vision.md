@@ -1,48 +1,42 @@
 # Vision
 
-Adaptig exists to make corporate AI adoption **stick**. Not to run more workshops. Not to deliver more slides. To change what happens after the trainer leaves the room.
+**A world where people and organizations feel proudly future-ready, equipped to thrive in what's next.**
+
+## Our story
+
+We created Adaptig after seeing how many leaders felt stuck. Not because they did not care, but because no one had met them where they were. Most teams do not need more noise — they need a clear starting point and grounded, hands-on support.
+
+With roots in business, tech, AI enablement, and learning design, we set out to close the gap between AI hype and real-world adoption — with a people-first approach that sparks excitement and action.
 
 ## The gap we close
 
-Most corporate AI training stops at awareness. People leave the room knowing what Copilot is, what Claude is, what Gemini is — and a week later nothing has changed in how they actually work. The distance between "I know about AI" and "I use AI every day in my real workflow" is where adoption dies.
+Most corporate AI training stops at awareness. The distance between "I know about AI" and "I use AI every day in my real workflow" is where adoption dies. Adaptig closes that gap.
 
-Adaptig closes that gap. We teach workflows, not tools. We sell the flow, not the tool.
+## What makes us different
 
-## How we close it
-
-**Frameworks reduce cognitive load.** Start small, then scale complexity. Give practitioners the smallest possible next step, and they take it.
-
-**Practitioners teach, not commentators.** Every Adaptig trainer uses the tools they teach. We do not lecture from theory — we show what we built yesterday.
-
-**Outcome-first, always.** We measure adoption by what changes in the practitioner's day, not by workshop attendance numbers.
-
-## The Goldilocks Zone
-
-Adaptig's teaching philosophy names the target: the **Goldilocks Zone** where action becomes easy and adoption becomes natural. Training that lands too theoretical is cold. Training that overwhelms with tools is hot. The Goldilocks Zone is the narrow band where practitioners leave the room and actually do the thing — because the next step is small enough that they can take it without thinking.
+- **Training with a pulse** — Live, human-led, built for impact, not passive consumption.
+- **Content that keeps you ahead** — Always current, research-backed, and tailored to what matters most.
+- **A global network of pros** — Certified trainers who know how to teach, not just talk tech.
+- **Local delivery, global reach** — Sessions in multiple languages, across sectors and regions.
+- **A proprietary platform made for doing** — Purpose-built from the ground up for hands-on, live AI workshops.
+- **We practice what we teach** — We run our own business with an AI-first ethos.
+- **By leaders for leaders** — Grounded in real-world organizational dynamics, not academic abstraction.
+- **Open by design** — Tech- and OEM-agnostic so clients stay in control. No lock-ins.
+- **Clarity over hype** — Demystifying AI for every team, replacing fear with energy and excitement.
+- **Momentum from day one** — Leave knowing what is possible and how to start right away.
 
 ## Core values
 
-1. **Noble Intent** — Assume good intentions; act with integrity and respect.
-2. **Everyone Belongs** — Show up as you are; bring curiosity, respect, and shared passion.
-3. **Playful Professionalism** — Serious outcomes, lighthearted journey.
-4. **AI-First Approach** — Challenge norms thoughtfully; walk the talk.
-5. **Human-Centered, AI-Enabled** — Progress that serves people, never compromising trust, transparency, or privacy.
-6. **Result-Focused** — Channel energy into progress and solving problems.
+1. **Noble Intent** — Start with trust, assume good, act with care and respect.
+2. **Everyone Belongs** — Come as you are. Be curious, kind, passionate, all in.
+3. **Playful Professionalism** — Serious outcomes, lighthearted energy.
+4. **Results, not rhetoric** — Less talk, more traction.
+5. **AI-driven, Human-led** — AI first, but always in service of people, trust, and progress.
 
-## How we want people to feel
+## What we are not
 
-When participants think "Adaptig," they should feel: **seen and heard**, **empowered** ("I've got this"), **guided not lectured**, **safe to experiment**, **sparked with possibility**, and **proudly future-ready**.
-
-## What we are not building
-
-We are not building an AI model. We are not building an AI SaaS product. We are not building an AI research lab. We are building the **adoption layer** that sits on top of whatever AI the client already has.
-
-Adaptig is tool-agnostic: Copilot, Claude, Gemini, Manus, or whatever surfaces next quarter. The tools change every quarter; the adoption problem does not.
-
-## Why this matters
-
-The companies that will win the next decade are not the ones with the most AI licenses — they are the ones whose practitioners actually use the AI they have.
+We are not building an AI model. We are not a SaaS product. We are not a research lab. We are the **adoption layer** that sits on top of whatever AI the client already has. Tool-agnostic: Copilot, Claude, Gemini, or whatever surfaces next quarter.
 
 ## Out of scope
 
-This file does NOT include: specific growth targets, revenue goals, funding plans, hiring roadmap, geographic expansion plans, or exit strategy. Those belong in internal strategy documents, not in a team-facing Context Pack.
+This file does NOT include: specific growth targets, revenue goals, funding plans, hiring roadmap, or geographic expansion plans. Those belong in internal strategy documents.

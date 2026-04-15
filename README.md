@@ -55,7 +55,6 @@ Every fact in these files is either sourced or flagged. If you disagree with a f
 - Personal workflows and operator-specific skills — those live in each team member's personal context folder.
 - Client-specific information, NDAs, client pricing, or engagement contracts — those live in internal systems, not here.
 - Financial, investor, or fundraising information — not a team-facing concern.
-- DotAI / Animo Technology Limited content — separate entity, separate context. See `adaptig.md` for the entity boundary.
 
 ## Maintenance
 
