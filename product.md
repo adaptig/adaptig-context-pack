@@ -2,15 +2,16 @@
 
 Adaptig's services are organized into four product lines: **Spark**, **Shift**, **Shape**, and **Show**. They can stand alone or stack together.
 
-## The 100-10-10-1 AI Adoption Model
+## The 100-10-10-100 AI Adoption Model
 
 Adaptig's adoption framework maps how AI capability should spread through an organization:
 
-- **100%** of employees need AI literacy (→ Spark)
-- **100%** of leadership needs AI fluency (→ Shape)
-- **10%** become champions and multipliers (→ Shift)
-- **10%** become builders
-- Progresses through three stages: **AI Literate → AI Native → Institutionalized**
+- **100%** of employees need baseline AI literacy — General Staff (→ Spark)
+- **10%** become AI Champions — Execution Engine, coaching teams and spreading practical use cases (→ Shift)
+- **10%** become AI Builders — AI-native creators building workflows and solutions with the latest AI tools
+- **100%** of leadership needs AI fluency — "AI-Smart Leaders" who set direction, prioritize use cases, and drive adoption with confidence (→ Shape)
+
+AI adoption works when leaders direct, champions scale, builders create — and everyone participates. Progression: **AI Literate → AI Native → Institutionalized.**
 
 Each product line maps to a layer of this model.
 
