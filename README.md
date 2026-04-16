@@ -7,11 +7,22 @@ This folder is the canonical reference for Adaptig company facts. Any team membe
 - **`adaptig.md`** — Spine. Start here. Entity, tagline, mission, and how the rest of the pack is organized.
 - **`team.md`** — Core management team with roles.
 - **`vision.md`** — What Adaptig is building and why.
-- **`product.md`** — Spark / Shift / Shape / Show product lines, the 100-10-10-1 adoption framework, training pipeline, and trainer economics.
+- **`product.md`** — Spark / Shift / Shape / Show product lines, the 100-10-10-100 adoption framework, training pipeline, and trainer economics.
 - **`brand-tone-of-voice.md`** — How Adaptig communicates.
 - **`brand-visual-style.md`** — Logo, typography, color palette, illustration style, and relative file paths to all visual assets in `brand-assets/`.
 - **`achievement.md`** — Verified track record numbers. Use these, not approximations.
 - **`brand-assets/`** — Logos, fonts, shapes, illustration references, call backgrounds, LinkedIn backgrounds, email signatures. `brand-visual-style.md` serves as the index.
+
+## Company presentation
+
+The canonical company presentation is stored in the shared Google Drive, not in this repo (file size is too large for git).
+
+Drive folder: [01 Company Presentation](https://drive.google.com/drive/folders/1sTPpF7j40ySIHraLA9ziNA69q85uOIyx).
+
+- **English master** — [`20260416_Adaptig company presentation_long with video.pptx`](https://docs.google.com/presentation/d/1FhSXk3jGapoEWoqHgfEHt33Ct3QATYqP/edit) (35 slides, 99 MB, includes embedded intro video and speaker notes).
+- **German version** — [`Adaptig_Company_Presentation_DE_20260416.pptx`](https://docs.google.com/presentation/d/105tYC9bLNuB7iPiks8itVoft6U6w3XY2/edit) (same structure, translated by Gemini 3 Pro Preview with the Adaptig terminology lock — formal Sie, Spark/Shift/Shape/Show kept English, SMART+SZENE acronyms, anti-hype voice).
+
+Both decks should be kept in sync with this pack. If you update the deck, update the pack file that covers the same claim (e.g., a new program → `product.md`; a new team member → `team.md`; a new headline number → `achievement.md`). The pack is the source of truth for facts; the deck is the presentation of those facts.
 
 ## Quick setup: Claude Code
 

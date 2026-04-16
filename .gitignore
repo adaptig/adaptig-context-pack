@@ -10,3 +10,7 @@ brand-assets/**/*.mov
 
 # Adobe Illustrator source files
 brand-assets/**/*.ai
+
+# Company presentation decks (large binaries, stored in shared Drive instead)
+brand-assets/company-presentation/*.pptx
+brand-assets/company-presentation/*.pdf
